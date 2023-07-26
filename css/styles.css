@@ -12,14 +12,14 @@
 /* header logo */
 body {
 	background-color: var(--white, #FFF);
-	color: var(--black,#212121);
+	color: var(#434455);
 	font-family: Roboto, sans-serif;
 	font-style: 400;
 	font-weight: 400;
 	font-size: 14px;
 	line-height: 1.71;
 	letter-spacing: 0.03em;
-	color: #434455;
+	
 }
 
 /* page studio */
