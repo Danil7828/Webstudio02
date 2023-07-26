@@ -25,7 +25,7 @@ body {
 /* page studio */
 .logo-header-blue{
 	color: var(--iris, #4D5AE5);
-	font-family: Raleway;
+	font-family: Raleway,sans-serif;
 	font-size: 18px;
 	font-style: normal;
 	font-weight: 800;
@@ -37,7 +37,7 @@ body {
 
 .logo-header-black{
 	color: var(--navyblue, #2E2F42);
-	font-family: Raleway;
+	font-family: Raleway,sans-serif;
 font-size: 18px;
 font-style: normal;
 font-weight: 800;
