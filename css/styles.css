@@ -36,7 +36,7 @@ body {
 }
 
 .logo-header-black {
-  color: var(--navyblue, #2e2f42);
+  color: var(#2e2f42);
   font-family: Raleway, sans-serif;
   font-size: 18px;
   font-style: normal;
