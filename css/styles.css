@@ -24,7 +24,7 @@ body {
 
 /* page studio */
 .logo-header-blue{
-	color: var(--iris, #4d5ae5);
+	color:(#4d5ae5);
 	font-family:Raleway,sans-serif;
 	font-size: 18px;
 	font-style: normal;
