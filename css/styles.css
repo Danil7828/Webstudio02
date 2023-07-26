@@ -22,8 +22,8 @@ body {
 }
 
 /* page studio */
-.logo-header-black {
-  color: var(--navyblue, #2e2f42);
+.logo-header-blue {
+  color: var(--iris, #4D5AE5);
   font-family: Raleway, sans-serif;
   font-size: 18px;
   font-style: normal;
@@ -34,8 +34,8 @@ body {
   text-decoration: none;
 }
 
-.logo-header-blue {
-  color: var(--iris, #4d5ae5);
+.logo-header-black {
+  color: var(--navyblue, #2e2f42);
   font-family: Raleway, sans-serif;
   font-size: 18px;
   font-style: normal;
