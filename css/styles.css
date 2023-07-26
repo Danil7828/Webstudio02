@@ -23,7 +23,7 @@ body {
 }
 
 /* page studio */
-.logo-header-blue{
+.logo-header-black{
 	color:var(--navyblue, #2E2F42);
 	font-family:Raleway,sans-serif;
 	font-size: 18px;
@@ -35,7 +35,7 @@ body {
 
 }
 
-.logo-header-black{
+.logo-header-blue{
 	color:var(--iris,#4d5ae5);
 	font-family:Raleway,sans-serif;
 font-size: 18px;
