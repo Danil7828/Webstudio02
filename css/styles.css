@@ -1,25 +1,25 @@
 /* page */
 :root {
-  --primary-bg-color: #ffffff;
-  --secondary-bg-color: #2f303a;
-  --color-main-text: #212121;
-  --color-secondary-text: #757575;
-  --white: #ffffff;
-  --accent: #2196f3;
-  --color-bg-team: #f5f4fa;
+  --primary-bg-color:#ffffff;
+  --secondary-bg-color:#2f303a;
+  --color-main-text:#212121;
+  --color-secondary-text:#757575;
+  --white:#ffffff;
+  --accent:#2196f3;
+  --color-bg-team:#f5f4fa;
   --color-footers-link: rgba(255, 255, 255, 0.6);
-  --primary-color: #4d5ae5;
+  --primary-color:#4d5ae5;
 }
 /* header logo */
 body {
-  background-color: var(--white, #fff);
+  background-color:var(--white, #fff);
   color: #434455;
-  font-family: Roboto, sans-serif;
-  font-style: 400;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 1.71;
-  letter-spacing: 0.03em;
+  font-family:Roboto,sans-serif;
+  font-style:400;
+  font-weight:400;
+  font-size:14px;
+  line-height:1.71;
+  letter-spacing:0.03em;
 }
 
 /* page studio */
@@ -32,7 +32,7 @@ body {
   line-height:1.17;
   letter-spacing:0.54px;
   text-transform:uppercase;
-  text-decoration: none;
+  text-decoration:none;
 }
 
 .logo-header-black {
@@ -44,7 +44,7 @@ body {
   line-height:1.17;
   letter-spacing:0.54px;
   text-transform:uppercase;
-  text-decoration: none;
+  text-decoration:none;
 }
 
 .link {
