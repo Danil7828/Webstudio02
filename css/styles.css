@@ -23,7 +23,7 @@ body {
 }
 
 /* page studio */
-.logo-header-blue {
+.logo-header-blue{
   color:var(--iris,#4d5ae5);
   font-family:Raleway,sans-serif;
   font-size:18px;
@@ -32,7 +32,7 @@ body {
   line-height:1.17;
   letter-spacing:0.54px;
   text-transform:uppercase;
-  text-decoration:none;
+  text-decoration: none;
 }
 
 .logo-header-black {
@@ -44,7 +44,7 @@ body {
   line-height:1.17;
   letter-spacing:0.54px;
   text-transform:uppercase;
-  text-decoration:none;
+  text-decoration: none;
 }
 
 .link {
