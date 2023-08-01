@@ -43,6 +43,10 @@
   text-decoration:none;
 
 }
+
+.site-nav{
+  list-style: none;
+}
 .studio-link:hover,
 .studio-link:focus{
 color: #404bbf;
