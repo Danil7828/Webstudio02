@@ -43,3 +43,7 @@
   text-decoration:none;
 
 }
+.studio-link:hover,
+.studio-link:focus{
+color: #404bbf;
+}
