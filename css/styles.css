@@ -120,3 +120,11 @@ background-color: #404BBF;
   letter-spacing: 0.02em;
   color: #434455;
 }
+
+.work-title{
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
