@@ -180,3 +180,9 @@ background-color: #404BBF;
   .logo-footer-white{
     color: #f4f4fd;
   }
+
+  .footer-text{
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
+  }
