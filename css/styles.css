@@ -209,3 +209,7 @@ background-color: #404BBF;
       color: #FFFFFF;
       background-color: #404BBF;
   }
+
+  .portfolio-ul{
+    text-decoration: none;
+  }
