@@ -228,10 +228,18 @@ background-color: #404BBF;
     color: #434455;
   }
 
-  .contact-list{
-    text-decoration: none;
+  .company-list{
+    list-style: none;
   }
 
+  .work-list{
+    list-style: none;
+  }
+
+
+  .team-list{
+    list-style: none;
+  }
   
 
  
