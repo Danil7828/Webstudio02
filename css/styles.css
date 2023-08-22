@@ -251,6 +251,7 @@ background-color: #404BBF;
   .container{
     display: flex;
     width: 1158px;
+    margin: 0 auto;
   }
 
  
