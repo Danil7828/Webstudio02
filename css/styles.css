@@ -240,6 +240,11 @@ background-color: #404BBF;
   .team-list{
     list-style: none;
   }
+
+
+  img{
+    display: block;
+  }
   
 
  
