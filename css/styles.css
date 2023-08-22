@@ -69,8 +69,10 @@ color: #404bbf;
   gap: 40px;
 }
 
+
 .address{
   font-style: normal;
+  margin-left: auto;
 }
 
 .contact-link{
@@ -80,6 +82,9 @@ color: #404bbf;
   letter-spacing:0.02em;
   color: #434455;
   text-decoration:none;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  display: inline-block;
 
 }
 
