@@ -55,6 +55,8 @@ body{
 
 .site-nav{
   list-style: none;
+  display: flex;
+  gap: 40px;
 }
 .studio-link:hover,
 .studio-link:focus{
