@@ -256,4 +256,6 @@ background-color: #404BBF;
     padding-right: 15px;
   }
 
- 
+ .list{
+  display: flex;
+ }
