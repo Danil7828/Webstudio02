@@ -248,5 +248,8 @@ background-color: #404BBF;
     display: block;
   }
   
+  .container{
+    display: flex;
+  }
 
  
