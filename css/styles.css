@@ -26,6 +26,7 @@ body{
   text-transform:uppercase;
   color: #4d5ae5;
   text-decoration: none;
+  margin-right: 76px;
 }
 
 .header{
@@ -260,3 +261,4 @@ background-color: #404BBF;
   display: flex;
   align-items: center; 
  }
+
