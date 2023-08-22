@@ -258,4 +258,5 @@ background-color: #404BBF;
 
  .list{
   display: flex;
+  align-items: center; 
  }
