@@ -64,11 +64,13 @@ body{
 color: #404bbf;
 }
 
+.site-ul{
+  display: flex;
+  gap: 40px;
+}
 
 .address{
   font-style: normal;
-  display: flex;
-  gap: 40px;
 }
 
 .contact-link{
