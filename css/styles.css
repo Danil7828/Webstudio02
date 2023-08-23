@@ -287,6 +287,12 @@ button {
 
 .company-list {
   list-style: none;
+  display: flex;
+  gap: 24px;
+}
+
+.company-item{
+  width: calc((100% - 72px) / 4);
 }
 
 .work-list {
@@ -306,6 +312,19 @@ img {
   margin: 0 auto;
   padding-left: 15px;
   padding-right: 15px;
+}
+
+
+.visually-hidden{
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
 }
 
 
