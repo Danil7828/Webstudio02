@@ -215,7 +215,9 @@ button {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+  margin-bottom: 72px;
 }
+
 
 .team-item {
   background-color: #ffffff;
@@ -307,6 +309,8 @@ button {
 
 .team-list {
   list-style: none;
+  display: flex;
+  gap: 24px;
 }
 
 img {
