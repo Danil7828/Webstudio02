@@ -309,6 +309,10 @@ button {
   gap: 24px;
 }
 
+.work-item{
+  width: calc((100% - 72px) / 4);
+}
+
 .team-list {
   list-style: none;
 }
