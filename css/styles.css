@@ -16,6 +16,23 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+input,
+textarea,
+button {
+  font: inherit;
+}
 
 .logo {
   font-family: Raleway, sans-serif;
@@ -27,19 +44,29 @@ body {
   color: #4d5ae5;
   text-decoration: none;
   margin-right: 76px;
+  margin-left: 156px;
+  margin-top: 24px;
+  margin-bottom: 24px;
 }
 
 .header {
   text-decoration: none;
   border-bottom: 1px solid #e7e9fc;
 }
+ 
+.header-list {
+  display: flex;
+  align-items: center;
+}
+
+.header-container{
+  display: flex;
+  align-items: center;
+
+}
 
 .logo-header-black {
   color: #2e2f42;
-}
-
-.header-nav {
-  list-style: none;
 }
 
 .studio-link {
@@ -66,12 +93,14 @@ body {
 .site-ul {
   display: flex;
   gap: 40px;
+  margin-left: auto;
+  
 }
 
 .address {
   font-style: normal;
-  margin-left: auto;
 }
+ 
 
 .contact-link {
   list-style: none;
@@ -136,6 +165,11 @@ body {
 .hero-button:hover,
 .hero-button:focus {
   background-color: #404bbf;
+}
+
+.company{
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 
 .company-title {
@@ -268,14 +302,10 @@ img {
 }
 
 .container {
-  display: flex;
   width: 1158px;
   margin: 0 auto;
   padding-left: 15px;
   padding-right: 15px;
 }
 
-.list {
-  display: flex;
-  align-items: center;
-}
+
