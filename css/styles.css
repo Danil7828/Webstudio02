@@ -349,5 +349,7 @@ img {
   overflow: hidden;
 }
 
-
+.portfolio-ul{
+  list-style: none;
+}
 
