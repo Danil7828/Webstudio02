@@ -199,6 +199,7 @@ button {
   text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
+  margin-bottom: 72px;
 }
 
 .team {
@@ -304,6 +305,8 @@ button {
 
 .work-list {
   list-style: none;
+  display: flex;
+  gap: 24px;
 }
 
 .team-list {
